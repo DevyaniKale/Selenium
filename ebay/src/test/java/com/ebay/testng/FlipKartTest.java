@@ -33,7 +33,7 @@ public class FlipKartTest extends EbayBase {
 	  System.out.println(title);
 	  String price = App().Pages().FlipKartPage().getProductPrice();
 	  System.out.println(price);
-	 
+	 System.out.println("hiii");
 	  
   }
 }
